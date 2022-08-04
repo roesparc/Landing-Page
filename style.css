@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 0 3px;
+    padding: 5px 10px;
 }
 
 .links-header {
@@ -81,6 +81,10 @@ h1 {
     background-color: #3478e6;
 }
 
+.information {
+    padding: 0 10px;
+}
+
 .info-header {
     font-size: 36px;
     font-weight: bolder;
@@ -111,4 +115,30 @@ h1 {
     max-width: fit-content;
     color: #686868;
     font-size: 18px;
+}
+
+.quote-wrap {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+    padding: 0 100px;
+}
+
+.quote-text {
+    max-width: 1100px;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    margin: 200px 0 0 0;
+}
+
+.quote-by {
+    max-width: 100%;
+    width: 1000px;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: end;
+    margin-bottom: 200px;
 }
