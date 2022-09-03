@@ -214,3 +214,13 @@ h1 {
     filter: invert(97%) sepia(4%) saturate(172%) hue-rotate(181deg) brightness(99%) contrast(88%);
     cursor: pointer;
 }
+
+.author {
+    color: #E5E7EB;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+.author a {
+    color: #3882F6;
+}
