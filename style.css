@@ -112,7 +112,7 @@ h1 {
 
 .info-wrap p {
     text-align: center;
-    max-width: fit-content;
+    width: 270px;
     color: #686868;
     font-size: 18px;
 }
@@ -136,7 +136,7 @@ h1 {
 
 .quote-by {
     max-width: 100%;
-    width: 1000px;
+    width: 1100px;
     font-size: 26px;
     font-weight: bold;
     text-align: end;
