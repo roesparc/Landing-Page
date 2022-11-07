@@ -1,8 +1,8 @@
-# Langing Page
+# Landing Page
 
-## [Live Demo ](https://roesparc.github.io/Landing-Page/)
+## [Live Demo](https://roesparc.github.io/Landing-Page/)
 
-<img alt="Tic Tac Toe demo GIF" src="./img/landing-page-preview.jpg"/>
+<img alt="Landing Page preview" src="./img/landing-page-preview.jpg"/>
 
 Landing page template created with Flexbox for the layout.
 
